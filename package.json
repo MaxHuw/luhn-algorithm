@@ -1,0 +1,25 @@
+{
+  "name": "luhn-algorithm",
+  "version": "1.0.0",
+  "description": "Lighthouse W1 Luhn Algorithm Assignment",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxHuw/luhn-algorithm.git"
+  },
+  "author": "Max Graham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxHuw/luhn-algorithm/issues"
+  },
+  "homepage": "https://github.com/MaxHuw/luhn-algorithm#readme"
+}
